@@ -1,1 +1,1 @@
-This is the cgit client
+This is the gggit client
